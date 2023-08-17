@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DevOps Engineer Resume - Basavalingappa</title>
+</head>
+<body>
+
+<h1>Basavalingappa</h1>
+<p>DevOps Engineer</p>
+
+<h2>Contact Information</h2>
+<p>Email: basavalingappa96632@.com</p>
+<p>Phone:+91 9663299848</p>
+
+<h2>Education</h2>
+  <p>Bachelor of Technology (B.tech) in Electrical and Electronics      Engineering (EEE)</p>
+  <p>Sharnbasva University, Kalaburagi</p>
+  <p>CGPA:8.89<p>
+ <p>Graduation Year: 2022</p>
+
+<h2>Certifications</h2>
+   <li>LINUX Training Certificate</li>
+   <p>besant technologies Banglore</p>
+   <li>AWS Cloud Practitioner Certificate</li>
+   <p>aws global certificate given by amazon</p>
+
+<h2>Skills</h2>
+<ul>
+  <li>DevOps Tools: Git, Jenkins, Docker, Kubernetes</li>
+  <li>Cloud Platforms: Amazon Web Services (AWS)</li>
+  <li>Programming Languages: Python, Bash</li>
+  <li>CI/CD: Continuous Integration and Continuous Deployment</li>
+</ul>
+
+<h2>Projects</h2>
+<p><strong>Project: Continuous Integration with Jenkins</strong></p>
+<p>Implemented a CI pipeline using Jenkins for automating the build and testing process of a web application.</p>
+
+<p><strong>Project: Dockerized Microservices</strong></p>
+<p>Developed and deployed a set of microservices using Docker containers for improved scalability and isolation.</p>
+
+<h2>Interests</h2>
+<p>Exploring new DevOps technologies and practices, cloud computing, automation, and scripting.</p>
+
+<h2>Languages</h2>
+<p>English (Fluent), [Any other languages you are proficient in]</p>
+
+<h2>References</h2>
+<p>Available upon request</p>
+
+</body>
+</html>
